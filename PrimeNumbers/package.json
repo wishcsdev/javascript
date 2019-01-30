@@ -1,0 +1,9 @@
+{
+  "name": "prime-numbers",
+  "version": "0.0.0",
+  "description": "PrimeNumbers",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

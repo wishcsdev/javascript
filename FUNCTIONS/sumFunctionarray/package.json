@@ -1,0 +1,9 @@
+{
+  "name": "sum-functionarray",
+  "version": "0.0.0",
+  "description": "sumFunctionarray",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sumof-multiples",
+  "version": "0.0.0",
+  "description": "SumofMultiples",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {}
+}

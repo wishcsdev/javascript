@@ -1,0 +1,9 @@
+{
+  "name": "calc-grades",
+  "version": "0.0.0",
+  "description": "CalcGrades",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

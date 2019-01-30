@@ -1,0 +1,9 @@
+{
+  "name": "show-properties",
+  "version": "0.0.0",
+  "description": "ShowProperties",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

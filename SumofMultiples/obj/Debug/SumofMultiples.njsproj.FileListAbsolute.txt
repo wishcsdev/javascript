@@ -1,0 +1,3 @@
+D:\visualEnterpriseProjects\JS\SumofMultiples\obj\Debug\SumofMultiples.njsprojAssemblyReference.cache
+D:\visualEnterpriseProjects\JS\SumofMultiples\obj\Debug\SumofMultiples.njsproj.CoreCompileInputs.cache
+D:\visualEnterpriseProjects\JS\SumofMultiples\bin\Microsoft.NodejsTools.WebRole.dll

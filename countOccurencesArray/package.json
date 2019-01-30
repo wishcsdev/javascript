@@ -1,0 +1,9 @@
+{
+  "name": "count-occurences-array",
+  "version": "0.0.0",
+  "description": "countOccurencesArray",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

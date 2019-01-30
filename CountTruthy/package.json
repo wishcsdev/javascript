@@ -1,0 +1,9 @@
+{
+  "name": "count-truthy",
+  "version": "0.0.0",
+  "description": "CountTruthy",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

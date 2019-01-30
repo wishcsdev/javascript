@@ -1,0 +1,9 @@
+{
+  "name": "stopwatch",
+  "version": "0.0.0",
+  "description": "stopwatch",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

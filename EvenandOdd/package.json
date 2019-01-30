@@ -1,0 +1,9 @@
+{
+  "name": "evenand-odd",
+  "version": "0.0.0",
+  "description": "EvenandOdd",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
